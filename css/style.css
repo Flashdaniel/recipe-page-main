@@ -79,10 +79,11 @@ td {
   font-weight: 600;
 }
 
-h3 {
+.preparation-time p {
   color: hsl(332, 51%, 32%);
   font-size: 2rem;
   margin-bottom: 0;
+  font-weight: 600;
 }
 
 th {
@@ -164,7 +165,7 @@ footer {
     font-size: 2.1rem;
   }
 
-  h3 {
+  .preparation-time p {
     font-size: 1.9rem;
   }
 
