@@ -79,11 +79,10 @@ td {
   font-weight: 600;
 }
 
-.preparation-time p {
+.preparation-time h2 {
   color: hsl(332, 51%, 32%);
   font-size: 2rem;
-  margin-bottom: 0;
-  font-weight: 600;
+  font-family: Outfit;
 }
 
 th {
